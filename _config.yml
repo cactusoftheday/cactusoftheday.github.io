@@ -1,0 +1,30 @@
+theme: jekyll-theme-console
+title: Cactus of the Day
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog showcasing a different cactus every day.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cactusoftheday.github.io" # the base hostname & protocol for your site
+twitter_username: cactusoftheday
+github_username: cactusoftheday
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+  - publications.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'uuuuuuu'
+
+google_analytics: UA-NNNNNNNN-N
+
+defaults:
+- scope:
+    path: "" # an empty string here means all files in the project
+  values:
+    layout: "default"
