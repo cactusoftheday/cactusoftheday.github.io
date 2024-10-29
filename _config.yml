@@ -1,4 +1,5 @@
 theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 title: Cactus of the Day
 description: >- # this means to ignore newlines until "baseurl:"
   A blog showcasing a different cactus every day.
