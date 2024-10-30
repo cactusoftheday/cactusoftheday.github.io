@@ -7,7 +7,6 @@ title: /gunpla
 # In-progress
 
 - HG Full Mechanics 1/144 Gundam Aerial Rebuild
-
 - HG RX-79[G] 1/144 Gundam Ground Type
 
 # Finished models

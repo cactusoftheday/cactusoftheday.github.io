@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 setTimeout(() => {
                     const availableHeight = modelDiv.clientHeight - headerHeight - 20;
                     imagesDiv.style.height = `${availableHeight}px`;
-                }, 100);
+                }, 120);
             });
         })
         .catch(error => console.error("Error fetching models:", error));
