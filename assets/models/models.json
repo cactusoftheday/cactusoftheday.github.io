@@ -1,0 +1,26 @@
+{
+    "in_progress": [
+      {
+        "name": "Model 1",
+        "images": [
+          { "src": "assets/models/model1_1.jpg", "alt": "Model 1 Image 1" },
+          { "src": "assets/models/model1_2.jpg", "alt": "Model 1 Image 2" }
+        ]
+      }
+    ],
+    "finished": [
+      {
+        "name": "MG RX-78-2 Gundam Ver. 3.0",
+        "images": [
+          { "src": "assets/models/rx78_1.jpg", "alt": "RX-78-2 Image 1" },
+          { "src": "assets/models/rx78_2.jpg", "alt": "RX-78-2 Image 2" },
+          { "src": "assets/models/rx78_3.jpg", "alt": "RX-78-2 Image 3" }
+        ]
+      },
+      {
+        "name": "HGUC 1/144 RX-9/A Narrative Gundam A-Packs",
+        "images": [
+           ]
+        }
+    ]
+}
