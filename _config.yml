@@ -15,11 +15,12 @@ plugins:
 header_pages:
   - index.md
   - publications.md
+  - gunpla.md
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'uuuuuuu'
+footer: 'Add me on <a href="https://www.linkedin.com/in/isaac-huang-0b3027246/">LinkedIn</a>'
 
 google_analytics: UA-NNNNNNNN-N
 
