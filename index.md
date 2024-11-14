@@ -13,10 +13,9 @@ Welcome to my portfolio! Here, you'll find a showcase of my latest projects, ski
 
 <img src="assets/profile.jpg" alt="Isaac Huang" class="profile-image">
 
-Here's a [**link**](assets/Resume_Isaac_Huang.pdf) to my resume
+Here's a [**link**](assets/Resume_Isaac_Huang.pdf) to my resume and a [**link**](https://github.com/cactusoftheday) to my GitHub
 
 Check out my Gunpla builds!
-
 And a randomly selected quote,
 <script src="{{ '/scripts/quote.js' | relative_url }}"></script>
 ><div id="quote"></div>
