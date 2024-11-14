@@ -20,6 +20,8 @@
       {
         "name": "HGUC 1/144 RX-9/A Narrative Gundam A-Packs",
         "images": [
+          { "src": "assets/models/narrative_1.jpg", "alt": "Narrative Gundam Image 1" },
+          { "src": "assets/models/narrative_2.jpg", "alt": "Narrative Gundam Image 2" }
            ]
         }
     ]
